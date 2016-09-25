@@ -10,7 +10,7 @@
  */
 
 /* Components */
-const int potPin = 2;  // Potentiometer
+const int potPin = A1;  // Potentiometer
 const int pushButton = 1; // Mode Button
 const int ledPin = 0; // LED Array / controller
 
